@@ -8,11 +8,15 @@ This library provides developers with a simple set of bindings to help you integ
 
 ## 💡 Requirements
 
-Python 3 or higher.
+Python 3.7 or higher.
 
 ## 📲 Installation 
 
-Run ```pip3 install mercadopago```
+Run
+
+```bash
+pip3 install mercadopago
+```
 
 ## 🌟 Getting Started
 
@@ -21,7 +25,7 @@ First time using Mercado Pago? Create your [Mercado Pago account](https://www.me
 Copy your `Access Token` in the [credentials panel](https://www.mercadopago.com/developers/panel/credentials) and replace the text `YOUR_ACCESS_TOKEN` with it.
 
 ### Simple usage
-  
+
 ```python
 import mercadopago
 
